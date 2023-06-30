@@ -31,6 +31,6 @@ Please complete the following information:
  - **I'm using Blender version** (e.g., 3.6.0):
 
 ## Additional Files
-Please attach the following files:
+Please attach the following files (by dragging and dropping them in the editor window):
 - Log files obtained using [these instructions](https://polynook.com/packed/data-manager/docs/support#logs)
 - `.blend` file the issue occurs in (please remove the unrelated data in the `.blend` file to make it as small as possible).
