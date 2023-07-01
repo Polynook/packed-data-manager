@@ -1,0 +1,67 @@
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in all required information in this form. 🙏
+        
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: First Check
+      description: Please confirm and check all the following options.
+      options:
+        - label: I use PACKED Data Manager downloaded from [Blender Market](https://blendermarket.com/products/packed-data-manager).
+          required: true
+        - label: My PACKED Data Manager version is **1.0.0**
+          required: true
+        - label: I already checked if it is an issue with [Blender](https://projects.blender.org/blender/blender/issues) and not PACKED Data Manager.
+          required: true
+          
+  - type: textarea
+    id: bug
+    attributes:
+      label: Describe the Bug
+      description: |
+        Write a concise description of the problem, bug, or error.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Describe the Expected Behavior
+      description: |
+        Write how you expected it to work.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: |
+        Describe the exact steps to reproduce the behavior.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        Please upload the following files in the `Upload Files` text area below (by dragging and dropping them in the editor window):
+        - Log files obtained using [these instructions](https://polynook.com/packed/data-manager/docs/support#logs)
+        - `.blend` file the issue occurs in (please remove the unrelated data in the `.blend` file to make it as small as possible).
+  
+  - type: textarea
+    id: files
+    attributes:
+      label: Upload Files
+      description: Drag and drop the required files in the text area.
+    validations:
+      requires: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Information
+      description: Add any additional information, screenshots, or videos you think are useful.
