@@ -1,24 +1,19 @@
 # PACKED Data Manager
 
-This repository is an issue and feature request tracker for [PACKED Data Manager](https://polynook.com/packed/data-manager/) add-on for [Blender](https://blender.org).
+This repository is a community hub for discussions related to [PACKED Data Manager](https://polynook.com/packed/data-manager/) add-on for [Blender](https://blender.org).
 
-## Issues
+To access the community hub, click on the [**Discussions** tab](https://github.com/Polynook/packed-data-manager/discussions) in GitHub's navigation bar.
 
-If you have an issue using PACKED Data Manager, follow these steps:
+## Ask for Support
 
-1. Check if you have the latest version of PACKED Data Manager. You can download the latest version from [Blender Market](https://blendermarket.com/products/packed-data-manager).
-2. Check open issues in this repository. Maybe someone has already reported it.
-3. If there is no open issue describing your problem, there are two ways to ask for support:
-  - Create a new issue in this repository (select the `Issue report` when creating a new issue) and fill in the required information by editing the post (you can switch to `Preview` to read the information easier).
-    or
-  - Send me an email by following the instructions [here](https://polynook.com/packed/data-manager/docs/support).
+If you have an issue using PACKED Data Manager, you can ask for support by [starting a new discussion](https://github.com/Polynook/packed-data-manager/discussions/new?category=bugs) in the [discussions](https://github.com/Polynook/packed-data-manager/discussions) section under the [Bugs](https://github.com/Polynook/packed-data-manager/discussions/categories/bugs) category.
 
-## Feature Requests
+If you wish to ask for support in private, please send me an email by following the instructions [here](https://polynook.com/packed/data-manager/docs/support).
 
-You can also propose features you would like to see in PACKED Data Manager.
+## Improvements and Feature Requests
 
-To propose a new feature, create a new issue in this repository (select the `Feature request` when creating a new issue) and fill in the required information by editing the post (you can switch to `Preview` to read the information easier).
+You can also propose an improvement to an existing feature or an idea for a brand new feature you would like to see in PACKED Data Manager.
 
-There is no guarantee that the proposed feature will be implemented.
+To do that, [start a new discussion](https://github.com/Polynook/packed-data-manager/discussions/new?category=ideas) in the [discussions](https://github.com/Polynook/packed-data-manager/discussions) section under the [Ideas](https://github.com/Polynook/packed-data-manager/discussions/categories/ideas) category.
 
 ## Thank you for using PACKED Data Manager.
