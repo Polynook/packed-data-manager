@@ -13,7 +13,7 @@ body:
       options:
         - label: I use PACKED Data Manager downloaded from [Blender Market](https://blendermarket.com/products/packed-data-manager).
           required: true
-        - label: My PACKED Data Manager version is **1.0.0**
+        - label: I use PACKED Data Manager version: **1.0.0**
           required: true
         - label: I already checked if it is an issue with [Blender](https://projects.blender.org/blender/blender/issues) and not PACKED Data Manager.
           required: true
@@ -48,6 +48,7 @@ body:
   - type: markdown
     attributes:
       value: |
+        **Required Files**
         Please upload the following files in the `Upload Files` text area below (by dragging and dropping them in the editor window):
         - Log files obtained using [these instructions](https://polynook.com/packed/data-manager/docs/support#logs)
         - `.blend` file the issue occurs in (please remove the unrelated data in the `.blend` file to make it as small as possible).
@@ -58,7 +59,7 @@ body:
       label: Upload Files
       description: Drag and drop the required files in the text area.
     validations:
-      requires: true
+      required: true
 
   - type: textarea
     id: context
