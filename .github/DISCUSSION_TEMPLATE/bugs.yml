@@ -58,8 +58,6 @@ body:
     attributes:
       label: Upload Files
       description: Drag and drop the required files in the text area.
-    validations:
-      required: true
 
   - type: textarea
     id: context
