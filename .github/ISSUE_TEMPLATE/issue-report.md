@@ -27,7 +27,7 @@ If applicable, add screenshots to help explain your problem.
 ## System Information
 Please complete the following information:
  - **I'm using OS** (e.g. iOS, Windows, Linux): 
- - **I'm using PACKED Data Manager version** (e.g., 1.0.0):
+ - **I'm using PACKED Data Manager version** (e.g., 1.0.2.0):
  - **I'm using Blender version** (e.g., 3.6.0):
 
 ## Additional Files
