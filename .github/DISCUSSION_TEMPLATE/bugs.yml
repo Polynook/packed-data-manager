@@ -13,7 +13,7 @@ body:
       options:
         - label: I use PACKED Data Manager downloaded from [Blender Market](https://blendermarket.com/products/packed-data-manager).
           required: true
-        - label: I use PACKED Data Manager version **1.0.1.1**.
+        - label: I use PACKED Data Manager version **1.0.2.0**.
           required: true
         - label: I already checked if it is an issue with [Blender](https://projects.blender.org/blender/blender/issues) and not PACKED Data Manager.
           required: true
